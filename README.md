@@ -1,31 +1,85 @@
-# Sales-Performance-and-Business-Intelligence-Dashboard
-Identified top-performing products and peak business hours to support operational decision-making.
-Extracted transactional data using MySQL, transformed datasets, and loaded them into Power BI for interactive reporting.
+# 📊 Sales Performance & Business Intelligence Dashboard
 
-**Skills:**
+## 📌 Project Overview
+Developed an interactive Sales Performance Dashboard using **MySQL** and **Power BI** to analyze sales trends, customer behavior, and business performance. Cleaned and transformed raw transactional data using SQL before creating interactive dashboards with DAX measures and visualizations.
 
-**SQL** for data cleaning and analysis
-**Power BI** for visualization
-**DAX** calculations
-Data preparation
-Business insight generation
+---
 
-**KPI Requirements:**
-1.Total Sales Analysis
-> Calculate the total sales for each respective month
-> Determine the month on month increase or decrease in sales
-> Calculate the difference in sales between the selected month and the previous month 
-Total Order Analysis
+## 🛠️ Tools & Technologies
+- MySQL
+- Power BI
+- SQL
+- DAX
+- Power Query
+- Data Cleaning
+- Data Visualization
 
+---
 
+## 🎯 Business Objectives
+- Analyze total sales performance
+- Compare Month-over-Month (MoM) sales
+- Identify top-performing products
+- Analyze customer purchasing trends
+- Identify peak business hours
+- Monitor KPIs using interactive dashboards
 
-Steps Performed for MYSQL:
-. Data Walkthrough
-. Raw data file preparation
-. Creating Database
-. Importing File
-. Cleaning Imported File
-. Changing Data Types
-. Firing SQL Queries for Business Requirements
-. Storing Results
-. Preparing SQL Documents
+---
+
+## 📈 Key KPIs
+- Total Sales
+- Total Orders
+- Total Quantity Sold
+- Average Order Value
+- Month-over-Month Sales Growth
+- Sales Difference from Previous Month
+
+---
+
+## 🗄️ SQL Workflow
+- Imported raw CSV data into MySQL
+- Created database and tables
+- Cleaned missing and duplicate records
+- Changed data types
+- Wrote SQL queries for business requirements
+- Created summary tables for reporting
+
+---
+
+## 📊 Power BI Development
+- Connected MySQL database to Power BI
+- Built data model
+- Created DAX measures
+- Added slicers and filters
+- Designed interactive dashboards
+- Implemented KPI cards and charts
+
+---
+
+## 📌 Key Insights
+- Identified top-selling products
+- Found peak sales hours
+- Tracked monthly sales growth
+- Compared current month with previous month
+- Improved business decision-making using interactive reports
+
+---
+
+## 📂 Repository Contents
+- Power BI Dashboard (.pbix)
+- SQL Scripts
+- Dataset
+- Dashboard Screenshots
+- README.md
+
+---
+
+## 🚀 Skills Demonstrated
+- SQL
+- Data Cleaning
+- Data Analysis
+- Power BI
+- DAX
+- Business Intelligence
+- Dashboard Design
+- Data Visualization
