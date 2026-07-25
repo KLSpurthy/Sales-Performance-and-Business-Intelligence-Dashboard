@@ -2,9 +2,10 @@
 
 ## 📌 Project Overview
 Developed an interactive Sales Performance Dashboard using **MySQL** and **Power BI** to analyze sales trends, customer behavior, and business performance. Cleaned and transformed raw transactional data using SQL before creating interactive dashboards with DAX measures and visualizations.
-<img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/4c145c91-9935-4cef-af47-f6bb9cdfaf54" />
-
 <img width="1343" height="805" alt="image" src="https://github.com/user-attachments/assets/4249235a-2617-49d5-b416-e23e13b68e42" />
+
+<img width="899" height="470" alt="image" src="https://github.com/user-attachments/assets/b54c605c-fc7c-4a37-bb8d-1f4ad36a4587" />
+
 
 
 ---
