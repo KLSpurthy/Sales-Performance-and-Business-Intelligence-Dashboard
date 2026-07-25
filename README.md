@@ -9,3 +9,23 @@ Extracted transactional data using MySQL, transformed datasets, and loaded them 
 **DAX** calculations
 Data preparation
 Business insight generation
+
+**KPI Requirements:**
+1.Total Sales Analysis
+> Calculate the total sales for each respective month
+> Determine the month on month increase or decrease in sales
+> Calculate the difference in sales between the selected month and the previous month 
+Total Order Analysis
+
+
+
+Steps Performed for MYSQL:
+. Data Walkthrough
+. Raw data file preparation
+. Creating Database
+. Importing File
+. Cleaning Imported File
+. Changing Data Types
+. Firing SQL Queries for Business Requirements
+. Storing Results
+. Preparing SQL Documents
